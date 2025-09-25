@@ -1,0 +1,5 @@
+{
+  "name": "BPM Process Chat AI ",
+  "description": "An AI-powered chatbot for BPM process and task management. Users can query service status, identify bottlenecks, see assignees, and get AI-driven recommendations for next steps, guided by Responsible AI principles.",
+  "requestFramePermissions": []
+}
